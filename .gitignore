@@ -1,0 +1,18 @@
+.env
+
+# Confidential source material - not for public repo
+IVOM_Uebersicht_Projektskizze.pdf
+_extracted.txt
+_slide_text.txt
+
+# Logs / scratch output
+*.log
+streamlit_log*.txt
+streamlit_smoketest.log
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
